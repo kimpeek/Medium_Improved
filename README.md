@@ -1,4 +1,4 @@
-# Medium_Improved
+# Medium Improved
 
 ### Fix annoying UI behaviors on medium.com
 
