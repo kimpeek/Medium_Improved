@@ -3,7 +3,7 @@
 // @name:en      Medium_Improved
 // @version      0.1
 // @description  Fix annoying UI behaviors on medium.com
-// @namespace    https://greasyfork.org/en/scripts/
+// @namespace    https://www.greasyfork.org/en/scripts/373794-medium-improved
 // @author       https://github.com/kimpeek
 // @include      *medium.com/*
 // ==/UserScript==
